@@ -1,0 +1,26 @@
+@import './common.scss';
+@import './flex.scss';
+@import './scrollbar.scss';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    padding: 0;
+    min-width: 1380px;
+
+    .mainBox {
+        padding-top: 70px;
+    }
+
+    .container {
+        width: 1380px;
+        margin-left: calc(50% - 690px);
+    }
+
+    i {
+        font-style: normal;
+    }
+}

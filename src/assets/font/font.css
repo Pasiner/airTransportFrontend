@@ -1,0 +1,54 @@
+@font-face{
+    font-family: 'PangMenZhengDao';
+    src:url('./庞门正道标题体.ttf')
+}
+
+@font-face{
+    font-family: 'PingFang';
+    src:url('./PingFang.otf')
+}
+
+
+@font-face{
+    font-family: 'DIN-Bold';
+    src:url('./DIN-Bold.otf')
+}
+
+@font-face{
+    font-family: 'DINCond-Black';
+    src:url('./DINCond-Black.otf')
+}
+
+@font-face{
+    font-family: 'DIN-Medium';
+    src:url('./DIN-Medium.otf')
+}
+@font-face{
+    font-family: 'DIN-Regular';
+    src:url('./DIN-Regular.otf')
+}
+@font-face{
+    font-family: 'DIN-Black';
+    src:url('./DIN-Black.otf')
+}
+
+@font-face{
+    font-family: 'OPPOSans-M';
+    src:url('./OPPOSans-M.ttf')
+}
+
+@font-face{
+    font-family: 'BebasNeue';
+    src:url('./BebasNeue.otf')
+}
+
+
+@font-face{
+    font-family: '微软雅黑';
+    src:url('./微软雅黑.ttf')
+}
+
+@font-face{
+    font-family: '时尚中黑简体';
+    src:url('./时尚中黑简体.ttf')
+}
